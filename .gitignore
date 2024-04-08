@@ -14,7 +14,7 @@
 /torch-dumps
 /training/datasets
 
-/CMD_FLAGS.txt
+# /CMD_FLAGS.txt
 /img_bot*
 /img_me*
 /models/config-user.yaml
